@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learning and a love for coding. My expertise lies in C# and .NET development, and I've also have experience building and maintaining automation frameworks using Selenium. My hobbies are learning languages, playing guitar(electric,acoustic,bass) and drums, and dabbling in game development!
+Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learning and a love for coding. My expertise lies in C# and .NET development, and I've also have experience building/maintaining automation frameworks using C#. My hobbies are learning languages, playing guitar(electric,acoustic,bass) and drums, and dabbling in game development!
 
 ## Tech Stack
 
