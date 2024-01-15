@@ -4,7 +4,7 @@ Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learni
 
 ## Tech Stack
 
-- **Main Coding Language:** C#
+- **Coding Language:** C#, GDScript
 - **Lanugages:** English(Fluent), Korean(Proficient), Japanese(Currently Learning)
 - **Frameworks:** .NET, Selenium, Godot (for game development)
 - **Other Interests:** Automation, Game Development, Language Learning, Electric Guitar, Acoustic Guitar, Bass Guitar, Drums
