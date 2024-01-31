@@ -15,4 +15,4 @@ Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learni
 - 📧 Email: TBA
 - 💼 LinkedIn: TBA
 
-Feel free to explore my repositories, contribute, or reach out for a friendly chat. Let's connect, collaborate, and code together! 🚀
+Feel free to explore my repositories or reach out for a friendly chat.
