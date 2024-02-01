@@ -8,7 +8,7 @@ Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learni
 - **Lanugages:** English(Fluent), Korean(Proficient), Japanese(Currently Learning)
 - **Frameworks:** .NET, Selenium, Godot (for game development)
 - **Focus:** Automation, Game Development
-- **Hobbies:** , Language Learning, Electric Guitar, Acoustic Guitar, Bass Guitar, Drums
+- **Hobbies:** Language Learning, Electric Guitar, Acoustic Guitar, Bass Guitar, Drums
 
 ## How to Reach Me
 
