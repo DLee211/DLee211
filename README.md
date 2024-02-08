@@ -7,7 +7,7 @@ Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learni
 - **Coding Language:** C#, SQL, GDScript
 - **Lanugages:** English(Fluent), Korean(Proficient), Japanese(Currently Learning)
 - **Frameworks:** .NET, Selenium, Godot
-- **Focus:** Automation, Game Development
+- **Focus:** Web Applications, Automation, Game Development
 - **Hobbies:** Language Learning, Electric Guitar, Acoustic Guitar, Bass Guitar, Drums
 
 ## How to Reach Me
