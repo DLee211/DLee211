@@ -10,9 +10,6 @@ Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learni
 - **Focus:** Web Applications, Automation, Game Development
 - **Hobbies:** Language Learning, Electric Guitar, Acoustic Guitar, Bass Guitar, Drums
 
-## How to Reach Me
-
-- 📧 Email: TBA
-- 💼 LinkedIn: TBA
+- 💼[LinkedIn](https://www.linkedin.com/in/daniel-lee-a94233b0/)
 
 Feel free to explore my repositories or reach out for a friendly chat.
