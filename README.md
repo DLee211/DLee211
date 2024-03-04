@@ -1,9 +1,5 @@
 ## About Me
 
-Hello! I'm Daniel Lee, a software engineer with a desire to be constantly learning. My expertise lies in C# and .NET development, and I've also have experience building/maintaining automation frameworks using C#. My hobbies are learning languages, playing instruments, and dabbling in game development!
-
-## Tech Stack
-
 - **Coding Language:** C#, SQL, GDScript
 - **Lanugages:** English(Fluent), Korean(Proficient), Japanese(Currently Learning)
 - **Frameworks:** .NET, Selenium, Godot
