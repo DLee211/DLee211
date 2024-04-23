@@ -1,6 +1,6 @@
 ## About Me
 
-- **Coding Language Experience:** C#, SQL, Javascript, GDScript
+- **Coding Language Experience:** C#, SQL, Typescript, Javascript, GDScript
 - **Lanugages:** English(Fluent), Korean(Proficient), Japanese(Currently Learning)
 - **Frameworks:** .NET, Selenium, Godot
 - **Focus:** Full Stack Web Applications, Automation, Game Development
