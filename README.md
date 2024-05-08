@@ -1,5 +1,7 @@
 ## Experience
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlee211&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 - **Coding Language:** C#, SQL, Typescript, Javascript, GDScript
 - **Lanugages:** English(Fluent), Korean(Proficient), Japanese(Currently Learning)
 - **Frameworks:** .NET, Angular, MVC, Selenium, Entity Framework, Godot
