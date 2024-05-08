@@ -1,1 +1,1 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DLee211/langs)](https://githubtrends.io)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLee211&theme=dark&show_icons=true)
