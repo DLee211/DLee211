@@ -8,3 +8,4 @@
 * Software Development: Proficient in designing and implementing applications with separation of concerns, using external libraries, and unit testing.
 * Full-Stack Development: Developed full-stack applications including budget management systems and sleep trackers, integrating both front-end and back-end technologies.
 * Project Management: Experience in managing and executing projects, including personal finance apps, Trivia games, and data logging systems.
+* ASP.NET Identity Management: Implemented user registration, authentication, authorization, and role-based authorization in ASP.NET Web Applications using Identity, Entity Framework, SQL Server, and Razor Pages. Experienced in creating user roles, scaffolding Identity UI items, and setting up Entity Framework DbContext.
