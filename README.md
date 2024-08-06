@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLee211&theme=transparent&hide_progress=true)
 
 * Programming Languages: C#, JavaScript, SQL
-* Frameworks & Libraries: ASP.NET MVC, ASP.NET Razor Pages, Angular, Angular Material, Entity Framework
+* Frameworks & Libraries: ASP.NET MVC, ASP.NET Razor Pages, Angular, Angular Material, Entity Framework, Selenium
 * Databases: SQL Server, SQLite, ADO.NET
 * Web Development: RESTful APIs, HTTP Requests, Web Crawling
 * Console Applications: Experience in building various console applications for tasks such as math games, calculators, habit logging, coding tracking, and more.
