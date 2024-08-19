@@ -44,13 +44,13 @@ Managed and executed projects such as:
 - Personal finance apps
 - Trivia games
 - Data logging systems
-- ASP.NET Identity Management
-## Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
-- Identity
-- Entity Framework
-- SQL Server
-- Razor Pages
-## Experienced in:
-- Creating user roles
-- Scaffolding Identity UI items
-- Setting up Entity Framework DbContext
+## ASP.NET Identity Management
+- Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
+-- Identity
+-- Entity Framework
+-- SQL Server
+-- Razor Pages
+- Experienced in:
+-- Creating user roles
+-- Scaffolding Identity UI items
+-= Setting up Entity Framework DbContext
