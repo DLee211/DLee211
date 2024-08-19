@@ -46,11 +46,11 @@ Managed and executed projects such as:
 - Data logging systems
 ## ASP.NET Identity Management
 - Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
--- Identity
--- Entity Framework
--- SQL Server
--- Razor Pages
+- - Identity
+- - Entity Framework
+- - SQL Server
+- - Razor Pages
 - Experienced in:
--- Creating user roles
--- Scaffolding Identity UI items
--= Setting up Entity Framework DbContext
+- - Creating user roles
+- - Scaffolding Identity UI items
+- - Setting up Entity Framework DbContext
