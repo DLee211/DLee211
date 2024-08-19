@@ -1,11 +1,56 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLee211&theme=transparent&hide_progress=true)
 
-* Programming Languages: C#, JavaScript, SQL
-* Frameworks & Libraries: ASP.NET MVC, ASP.NET Razor Pages, Angular, Entity Framework, Selenium
-* Databases: SQL Server, SQLite, ADO.NET
-* Web Development: RESTful APIs, HTTP Requests, Web Crawling
-* Console Applications: Experience in building various console applications for tasks such as math games, calculators, recipe books, habit logging, coding tracking, and more.
-* Software Development: Proficient in designing and implementing applications with separation of concerns, using external libraries, and unit testing.
-* Full-Stack Development: Developed full-stack applications including budget management systems and sleep trackers, integrating both front-end and back-end technologies.
-* Project Management: Experience in managing and executing projects, including personal finance apps, Trivia games, and data logging systems.
-* ASP.NET Identity Management: Implemented user registration, authentication, and authorization in ASP.NET Web Applications using Identity, Entity Framework, SQL Server, and Razor Pages. Experienced in creating user roles, scaffolding Identity UI items, and setting up Entity Framework DbContext.
+# Skills & Expertise
+
+## Programming Languages
+- C#
+- JavaScript
+- SQL
+
+## Frameworks & Libraries
+- ASP.NET MVC
+- ASP.NET Razor Pages
+- Angular
+- Entity Framework
+- Selenium
+## Databases
+- SQL Server
+- SQLite
+- ADO.NET
+## Web Development
+- RESTful APIs
+- HTTP Requests
+- Web Crawling
+## Console Applications
+Developed various console applications, including:
+- Math games
+- Calculators
+- Recipe books
+- Habit logging
+= Coding tracking
+
+## Software Development
+Proficient in:
+- Designing and implementing applications with separation of concerns
+- Using external libraries
+- Unit testing
+## Full-Stack Development
+Experience in developing full-stack applications, including:
+- Budget management systems
+- Sleep trackers
+- Integrated both front-end and back-end technologies
+## Project Management
+Managed and executed projects such as:
+- Personal finance apps
+- Trivia games
+- Data logging systems
+- ASP.NET Identity Management
+## Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
+- Identity
+- Entity Framework
+- SQL Server
+- Razor Pages
+## Experienced in:
+- Creating user roles
+- Scaffolding Identity UI items
+- Setting up Entity Framework DbContext
