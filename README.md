@@ -6,7 +6,6 @@
 - C#
 - JavaScript
 - SQL
-
 ## Frameworks & Libraries
 - ASP.NET MVC
 - ASP.NET Razor Pages
@@ -45,12 +44,12 @@ Managed and executed projects such as:
 - Trivia games
 - Data logging systems
 ## ASP.NET Identity Management
-- Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
-- - Identity
-- - Entity Framework
-- - SQL Server
-- - Razor Pages
-- Experienced in:
-- - Creating user roles
-- - Scaffolding Identity UI items
-- - Setting up Entity Framework DbContext
+Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
+- Identity
+- Entity Framework
+- SQL Server
+- Razor Pages
+Experienced in:
+- Creating user roles
+- Scaffolding Identity UI items
+- Setting up Entity Framework DbContext
