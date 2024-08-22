@@ -26,7 +26,7 @@ Developed various console applications, including:
 - Calculators
 - Recipe books
 - Habit logging
-= Coding tracking
+- Coding tracking
 
 ## Software Development
 Proficient in:
