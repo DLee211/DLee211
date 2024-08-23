@@ -21,7 +21,7 @@
 - HTTP Requests
 - Web Crawling
 ## Console Applications
-Developed various console applications, including:
+Developed console applications, including:
 - Math games
 - Calculators
 - Recipe books
