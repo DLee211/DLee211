@@ -27,7 +27,6 @@ Developed various console applications, including:
 - Recipe books
 - Habit logging
 - Coding tracking
-
 ## Software Development
 Proficient in:
 - Designing and implementing applications with separation of concerns
@@ -37,12 +36,10 @@ Proficient in:
 Experience in developing full-stack applications, including:
 - Budget management systems
 - Sleep trackers
-- Integrated both front-end and back-end technologies
-## Project Management
-Managed and executed projects such as:
+- Trivia games
 - Personal finance apps
 - Trivia games
-- Data logging systems
+- Integrated both front-end and back-end technologies
 ## ASP.NET Identity Management
 Implemented user registration, authentication, and authorization in ASP.NET Web Applications using:
 - Identity
