@@ -2,10 +2,6 @@
 
 # About Me
 
-## Programming Languages
-- C#
-- JavaScript
-- SQL
 ## Frameworks & Libraries
 - ASP.NET MVC
 - ASP.NET Razor Pages
