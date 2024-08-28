@@ -23,11 +23,6 @@ Developed console applications, including:
 - Recipe books
 - Habit logging
 - Coding tracking
-## Software Development
-Proficient in:
-- Designing and implementing applications with separation of concerns
-- Using external libraries
-- Unit testing
 ## Full-Stack Development
 Experience in developing full-stack applications, including:
 - Budget management systems
