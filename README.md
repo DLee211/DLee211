@@ -11,7 +11,6 @@
 ## Databases
 - SQL Server
 - SQLite
-- ADO.NET
 ## Web Development
 - RESTful APIs
 - HTTP Requests
