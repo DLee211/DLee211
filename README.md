@@ -17,16 +17,16 @@
 - Web Crawling
 ## Console Applications
 Developed console applications, including:
-- Math games
-- Calculators
-- Recipe books
+- Math game
+- Calculator
+- Recipe book
 - Habit logging
 - Coding tracking
 ## Full-Stack Development
 Experience in developing full-stack applications, including:
-- Budget management systems
-- Sleep trackers
-- Trivia games
-- Personal finance apps
-- Trivia games
+- Budget management system
+- Sleep tracker
+- Trivia game
+- Personal finance app
+- Trivia game
 - Integrated both front-end and back-end technologies
