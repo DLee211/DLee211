@@ -4,7 +4,7 @@
 
 ## Frameworks & Libraries
 - ASP.NET MVC
-- ASP.NET Razor Pages
+- ASP.NET Razor
 - Angular
 - Entity Framework
 - Selenium
