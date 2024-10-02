@@ -29,4 +29,3 @@ Experience in developing full-stack applications, including:
 - Trivia game
 - Personal finance app
 - Trivia game
-- Integrated both front-end and back-end technologies
