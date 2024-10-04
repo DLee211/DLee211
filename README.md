@@ -29,3 +29,5 @@ Experience in developing full-stack applications, including:
 - Trivia game
 - Personal finance app
 - Trivia game
+## Cloud & Infrastructure
+- Learning AWS Solution Architect
