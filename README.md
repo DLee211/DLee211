@@ -23,7 +23,7 @@ Developed console applications, including:
 - Habit logging
 - Coding tracking
 ## Full-Stack Development
-Experience in developing full-stack applications, including:
+Developed full-stack applications, including:
 - Budget management system
 - Sleep tracker
 - Trivia game
