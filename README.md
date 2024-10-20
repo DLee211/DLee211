@@ -27,4 +27,4 @@ Developed full-stack applications, including:
 - Personal finance app
 - Trivia game
 ## Cloud & Infrastructure
-- Learning AWS Solution Architect
+- AWS Solution Architect Certificate(WIP)
