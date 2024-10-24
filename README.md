@@ -21,10 +21,9 @@ Developed console applications, including:
 - Coding tracking
 ## Full-Stack Development
 Developed full-stack applications, including:
-- Budget management system
+- Budget Management
 - Sleep tracker
 - Trivia game
 - Personal finance app
-- Trivia game
 ## Cloud & Infrastructure
-- AWS Solution Architect Certificate(WIP)
+- AWS Solution Architect Certificate(Work In Progress)
