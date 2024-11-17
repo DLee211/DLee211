@@ -26,4 +26,6 @@ Developed full-stack applications, including:
 - Trivia game
 - Personal finance app
 ## Cloud & Infrastructure
-- AWS Solution Architect Certificate(Work In Progress)
+- AWS Certified Solution Architect - Associate(Work In Progress)
+- AWS Certified Developer - Associate(Work In Progress)
+- AWS SysOps Administrator - Associate(Work In Progress)
